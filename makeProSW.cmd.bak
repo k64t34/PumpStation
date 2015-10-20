@@ -1,0 +1,29 @@
+rem @echo off
+set script_folder=%~d0%~p0
+echo ****************************************
+set _my_d=%date:-=.%
+set _my_d=%_my_d:\=.%
+set _my_d=%_my_d:/=.%
+set _my_t=%time:~0,8%
+set _my_t=%_my_t:-=.%
+set _my_t=%_my_t::=.%
+set _my_t=%_my_t: 0.=00.%
+
+
+set FileArc="%script_folder%proSW-%_my_d%_%_my_t%.7z"
+set FolderArchiver=c:\Program Files\7-Zip\
+set FileArchiver=7z.exe
+
+"%FolderArchiver%%FileArchiver%" a -r %FileArc% "%USERPROFILE%\Documents\SharpDevelop Projects\sw1.1"
+"%FolderArchiver%%FileArchiver%" a -r %FileArc% "%USERPROFILE%\Documents\SharpDevelop Projects\pump.1.1"
+if /i "%COMPUTERNAME%"=="M16" (
+	"%FolderArchiver%%FileArchiver%" a -r %FileArc% "%script_folder%sw.mdb"
+) ELSE (
+	"%FolderArchiver%%FileArchiver%" a -r %FileArc% "\\deploy2\db$\sw.mdb"
+)
+"%FolderArchiver%%FileArchiver%" a -r %FileArc% %0
+pause
+
+copy %FileArc%  "%USERPROFILE%\Google Диск\DEVELOPMENT" 
+
+

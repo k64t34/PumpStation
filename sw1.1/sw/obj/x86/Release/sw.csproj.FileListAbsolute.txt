@@ -1,0 +1,5 @@
+C:\Users\skorik\Documents\SharpDevelop Projects\sw1.1\sw\bin\Release\sw.exe
+C:\Users\skorik\Documents\SharpDevelop Projects\sw1.1\sw\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\skorik\Documents\SharpDevelop Projects\sw1.1\sw\obj\x86\Release\sw.MainForm.resources
+C:\Users\skorik\Documents\SharpDevelop Projects\sw1.1\sw\obj\x86\Release\sw.csproj.GenerateResource.Cache
+C:\Users\skorik\Documents\SharpDevelop Projects\sw1.1\sw\obj\x86\Release\sw.exe

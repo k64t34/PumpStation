@@ -1,0 +1,14 @@
+C:\Users\Andrew\Documents\SharpDevelop Projects\sw1.1\sw\bin\Debug\sw.exe
+C:\Users\Andrew\Documents\SharpDevelop Projects\sw1.1\sw\bin\Debug\sw.pdb
+C:\Users\Andrew\Documents\SharpDevelop Projects\sw1.1\sw\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Andrew\Documents\SharpDevelop Projects\sw1.1\sw\obj\x86\Debug\sw.MainForm.resources
+C:\Users\Andrew\Documents\SharpDevelop Projects\sw1.1\sw\obj\x86\Debug\sw.csproj.GenerateResource.Cache
+C:\Users\Andrew\Documents\SharpDevelop Projects\sw1.1\sw\obj\x86\Debug\sw.exe
+C:\Users\Andrew\Documents\SharpDevelop Projects\sw1.1\sw\obj\x86\Debug\sw.pdb
+C:\Users\skorik\Documents\SharpDevelop Projects\sw1.1\sw\bin\Debug\sw.exe
+C:\Users\skorik\Documents\SharpDevelop Projects\sw1.1\sw\bin\Debug\sw.pdb
+C:\Users\skorik\Documents\SharpDevelop Projects\sw1.1\sw\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\skorik\Documents\SharpDevelop Projects\sw1.1\sw\obj\x86\Debug\sw.MainForm.resources
+C:\Users\skorik\Documents\SharpDevelop Projects\sw1.1\sw\obj\x86\Debug\sw.csproj.GenerateResource.Cache
+C:\Users\skorik\Documents\SharpDevelop Projects\sw1.1\sw\obj\x86\Debug\sw.exe
+C:\Users\skorik\Documents\SharpDevelop Projects\sw1.1\sw\obj\x86\Debug\sw.pdb
